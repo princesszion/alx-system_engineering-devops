@@ -1,0 +1,1 @@
+This projects helps me to lear the basics about shell and the commands involved.
